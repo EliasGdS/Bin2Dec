@@ -8,8 +8,8 @@ O Bin2Dec permite que o usuário insira seqüências de até 8 dígitos binário
 
 Esse desafio exige que o desenvolvedor que o implementa siga estas restrições:
 
--   Matrizes não podem ser usadas para conter os dígitos binários inseridos pelo usuário;
--   A determinação do equivalente decimal de um dígito binário específico na sequência deve ser calculada usando uma única função matemática, por exemplo, o logaritmo natural. Cabe a você descobrir qual função usar.
+-   Matrizes não podem ser usadas para conter os dígitos binários inseridos pelo usuário
+-   A determinação do equivalente decimal de um dígito binário específico na sequência deve ser calculada usando uma única função matemática, por exemplo, o logaritmo natural. Cabe a você descobrir qual função usar
 
 ## Exigências dos Usuários
 
