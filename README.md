@@ -1,6 +1,6 @@
 # Bin2Dec
 
-**Tier:** 1-Beginner
+**Nível:** 1-Iniciante - https://github.com/florinpop17/app-ideas
 
 Binário é o sistema numérico em que todos os computadores digitais se baseiam. Portanto, é importante que os desenvolvedores entendam matemática binária ou base 2. O objetivo do Bin2Dec é fornecer prática e entendimento de como cálculos binários.
 
