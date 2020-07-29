@@ -6,7 +6,9 @@ Done in HTML5, CSS3 and Javascript.
 
 ## Preview
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67754744/88864963-e5678b00-d1dc-11ea-954b-b6af8c79dac0.gif">
+<p>
 
 ## Features
 
