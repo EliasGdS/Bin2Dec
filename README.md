@@ -1,26 +1,19 @@
 # Bin2Dec
 
-**Nível:** 1-Iniciante
+Binary-to-Decimal number converter
 
-Binário é o sistema numérico em que todos os computadores digitais se baseiam. Portanto, é importante que os desenvolvedores entendam matemática binária ou base 2. O objetivo do Bin2Dec é fornecer prática e entendimento de como cálculos binários.
+Done in HTML5, CSS3 and Javascript.
 
-O Bin2Dec permite que o usuário insira seqüências de até 8 dígitos binários, 0 e 1, em qualquer sequência e, em seguida, exibe seu equivalente decimal.
+## Preview
 
-Esse desafio exige que o desenvolvedor que o implementa siga estas restrições:
 
--   Matrizes não podem ser usadas para conter os dígitos binários inseridos pelo usuário
--   A determinação do equivalente decimal de um dígito binário específico na sequência deve ser calculada usando uma única função matemática, por exemplo, o logaritmo natural. Cabe a você descobrir qual função usar
 
-## Exigências dos Usuários
+## Features
 
--   [x] O usuário pode inserir até 8 dígitos binários em um campo de entrada
--   [x] O usuário deve ser notificado se algo diferente de 0 ou 1 foi inserido
--   [x] O usuário visualiza os resultados em um único campo de saída contendo o equivalente decimal (base 10) do número binário que foi inserido
+- [x] User can enter up to 8 binary digits in one input field.
+- [x] User must be notified if anything other than a 0 or 1 was entered.
+- [x] User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered.
 
-## Recursos Bônus
+## Bonus Features
 
--   [ ] O usuário pode inserir um número variável de dígitos binários
-
-## Link da lista de desafios 'app ideas'
-
-https://github.com/florinpop17/app-ideas
+- [ ] User can enter a variable number of binary digits.
