@@ -4,6 +4,8 @@ Binary-to-Decimal number converter
 
 Done in HTML5, CSS3 and Javascript.
 
+CodePen: https://codepen.io/eliasgds/pen/wvMLJYz
+
 ## Preview
 
 <p align="center">
