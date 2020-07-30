@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bin2Dec</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
@@ -13,10 +13,14 @@
     <div class="box">
         <h1>Conversor Bin2Dec</h1>
         <h3>Conversor de binário para decimal</h3>
-        <p>Nº Binário: <input id="bnum" type="text" onchange="converter()" placeholder="Insira um número binário" maxlength="8"> </input></p>
-        <p>Nº Decimal: <input id="dnum" type="text" readonly></input></p>
+        <label>Binário <input id="bnum" type="text" onchange="converter()" placeholder="Insira um número binário" maxlength="8"> </input></label>
+        <label>Decimal <input id="dnum" type="text" readonly></input></label>
         <input id="btn" type="button" value="Converter" onclick="converter()">
     </div>
+
+    <footer>
+        <p>Made whit 💜 by Elias Gomes da Silva <a href="https://github.com/EliasGdS/Bin2Dec" target="_blank"><img src="githublogo.png" width="20px"></a> </p>
+    </footer>
 
     <script lang="javascript" src="main.js"></script>
 
